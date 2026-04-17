@@ -1,7 +1,7 @@
-# Radrd
+# RAD MAINTENANCE STATIC WEB PAGE
 
 ## Project Purpose
-The Radrd project aims to provide an efficient and reliable way to manage and process data within various systems. Its primary focus is on enhancing data accessibility and improving performance metrics through advanced algorithms and data structures.
+This project aims to provide an efficient and reliable way to manage and process data within various systems. Its primary focus is on enhancing data accessibility and improving performance metrics through advanced algorithms and data structures.
 
 ## Project Structure
 - **src/**: Contains the main source code of the application.
